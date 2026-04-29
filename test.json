@@ -1,0 +1,41 @@
+{
+  "company": {
+    "name": "Acme Corp",
+    "founded": 1998,
+    "active": true,
+    "address": {
+      "street": "123 Main St",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62701"
+    }
+  },
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "role": "Engineer",
+      "skills": ["Python", "JavaScript", "SQL"],
+      "salary": 95000
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "role": "Designer",
+      "skills": ["Figma", "CSS", "Illustrator"],
+      "salary": 85000
+    },
+    {
+      "id": 3,
+      "name": "Carol White",
+      "role": "Manager",
+      "skills": ["Leadership", "Agile", "Communication"],
+      "salary": 110000
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2026-04-28",
+    "tags": ["sample", "demo", "example"]
+  }
+}
